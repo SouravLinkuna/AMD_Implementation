@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/AMD_Implementation/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/AMD_Implementation/Data/**" />
+		<Compile Remove="$(PkgPath)/AMD_Implementation/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/AMD_Implementation/Schemas\**" />
+		<Compile Remove="$(PkgPath)/AMD_Implementation/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AMD_Implementation/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AMD_Implementation/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AMD_Implementation/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AMD_Implementation/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/AMD_Implementation/Resources/**" />
+		<None Remove="$(PkgPath)/AMD_Implementation/Assemblies/**" />
+		<None Remove="$(PkgPath)/AMD_Implementation/Data/**" />
+		<None Remove="$(PkgPath)/AMD_Implementation/SqlScripts/**" />
+		<None Remove="$(PkgPath)/AMD_Implementation/Schemas/**" />
+		<None Remove="$(PkgPath)/AMD_Implementation/Resources/**" />
+  </ItemGroup>
+</Project>

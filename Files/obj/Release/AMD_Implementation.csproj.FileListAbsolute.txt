@@ -1,0 +1,14 @@
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\Bin\AMD_Implementation.dll
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\Bin\AMD_Implementation.pdb
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.csprojAssemblyReference.cache
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.AssemblyInfoInputs.cache
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.AssemblyInfo.cs
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.csproj.CoreCompileInputs.cache
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.dll
+D:\App\dev-prmportal\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.pdb
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.csproj.AssemblyReference.cache
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.AssemblyInfoInputs.cache
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.AssemblyInfo.cs
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.csproj.CoreCompileInputs.cache
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.dll
+C:\Games\7.18.3.1241_AMD\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\AMD_Implementation\Files\obj\Release\AMD_Implementation.pdb
