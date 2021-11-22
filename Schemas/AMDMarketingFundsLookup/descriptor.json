@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b74c12c-b6b9-413b-994d-b1534c37333a",
+    "Name": "AMDMarketingFundsLookup",
+    "ModifiedOnUtc": "\/Date(1634208670000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Funds Lookup",
+    "DependsOn": []
+  }
+}

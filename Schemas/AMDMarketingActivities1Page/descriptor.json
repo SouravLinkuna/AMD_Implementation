@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1cfa7298-58df-48c7-b3f3-6df73d6c41ab",
+    "Name": "AMDMarketingActivities1Page",
+    "ModifiedOnUtc": "\/Date(1637205847000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Marketing Activities\"",
+    "DependsOn": []
+  }
+}

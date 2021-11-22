@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "653b7727-8857-4be0-af27-65949313129d",
+    "Name": "AMDMarketingFundsInTag",
+    "ModifiedOnUtc": "\/Date(1634536333000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Funds section record tag",
+    "DependsOn": []
+  }
+}

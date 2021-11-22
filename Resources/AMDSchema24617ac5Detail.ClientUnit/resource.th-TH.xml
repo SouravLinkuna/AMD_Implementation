@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ลูกค้า (บริษัท)" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="ลูกค้า (บริษัท)" />
+		</Items>
+	</Group>
+</Resources>

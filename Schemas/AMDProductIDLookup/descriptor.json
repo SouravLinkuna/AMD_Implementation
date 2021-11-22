@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f39e321-f88f-494a-9c86-a3b97c543ad8",
+    "Name": "AMDProductIDLookup",
+    "ModifiedOnUtc": "\/Date(1636704431000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Product ID Lookup",
+    "DependsOn": []
+  }
+}

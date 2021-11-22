@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fce3db63-a403-45d7-89d4-bd4ef0501621",
+    "Name": "AMDRequestFundLookup",
+    "ModifiedOnUtc": "\/Date(1634726661000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request Fund Lookup",
+    "DependsOn": []
+  }
+}

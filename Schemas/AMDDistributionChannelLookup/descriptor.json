@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a10cdcd5-fd14-44b0-a56b-4c6487cabb85",
+    "Name": "AMDDistributionChannelLookup",
+    "ModifiedOnUtc": "\/Date(1634731454000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Distribution Channel Lookup",
+    "DependsOn": []
+  }
+}

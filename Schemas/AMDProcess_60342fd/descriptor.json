@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1b89058-493b-470c-8594-7e1b839f7589",
+    "Name": "AMDProcess_60342fd",
+    "ModifiedOnUtc": "\/Date(1634215384000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Populate FundId Lookup when a new Fund ID is created",
+    "DependsOn": []
+  }
+}

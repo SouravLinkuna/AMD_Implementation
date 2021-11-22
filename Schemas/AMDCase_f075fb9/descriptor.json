@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3d008279-f73e-4284-8206-e533e4bfbf91",
+    "Name": "AMDCase_f075fb9",
+    "ModifiedOnUtc": "\/Date(1633435535000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Claims DCM",
+    "DependsOn": []
+  }
+}

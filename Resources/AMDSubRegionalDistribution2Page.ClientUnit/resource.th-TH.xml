@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Sub-Regional Distribution&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema2e02fe7cDetail6d6d824aDetailCaptionOnPage.Value" Value="ออบเจ็กต์ฐาน" />
+			<Item Name="LocalizableStrings.AMDSchema9b1adf10Detail68b65721DetailCaptionOnPage.Value" Value="ลูกค้า (บริษัท)" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail3ecc5471DetailCaptionOnPage.Value" Value="ออบเจ็กต์ฐาน" />
+		</Items>
+	</Group>
+</Resources>

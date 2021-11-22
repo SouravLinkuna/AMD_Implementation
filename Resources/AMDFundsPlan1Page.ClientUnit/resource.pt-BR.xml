@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Funds Plan&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema207b8e43Detail778fefdeDetailCaptionOnPage.Value" Value="Base de objeto" />
+		</Items>
+	</Group>
+</Resources>

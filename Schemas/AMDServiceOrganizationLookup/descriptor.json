@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "28716d4f-55d0-4a79-b6ed-0ca78344a107",
+    "Name": "AMDServiceOrganizationLookup",
+    "ModifiedOnUtc": "\/Date(1634731459000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Service Organization Lookup",
+    "DependsOn": []
+  }
+}

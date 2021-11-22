@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "05a86e91-bd81-4886-8bed-8491c9a78df0",
+    "Name": "AMDProcess_2b224e4",
+    "ModifiedOnUtc": "\/Date(1636461275000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Approve Transfers",
+    "DependsOn": []
+  }
+}

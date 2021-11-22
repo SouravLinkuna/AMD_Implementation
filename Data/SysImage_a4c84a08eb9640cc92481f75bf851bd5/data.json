@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a4c84a08-eb96-40cc-9248-1f75bf851bd5"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1633362829144+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "route_designer.svg"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCAzOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMzggMzgiPjxnIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Im0yNCA4djExYy42LjMgMSAxLjIgMS40IDIgLjMuNy43IDEuNSAxLjIgMS45LjEtMS4xLjItMy45LjItNi41bC0uNC40LTEuMS0xLjEgMS4xLTEuMS0xLTEgMS4xLTEuMSAxIDEgMS0xIDEuMSAxLjEtMSAxIDEgMS0xLjEgMS4xLS4zLS4zYy4xIDcuMS0uNCA3LjYtLjYgNy44bC0uNi4yYy0xLjYgMC0yLjMtMS42LTIuOS0yLjggMC0uMS0uMS0uMi0uMi0uM3Y2LjdsNyAydi0yMGwtNi45LTIiLz48cGF0aCBkPSJtMTMuMSAxOC40Yy0uMy0uNC0uNy0uOS0xLTEuMy0uMSAxLjMgMCAyLjUgMCAzLjIuOS4zIDEuNiAxLjIgMS42IDIuMiAwIDEuMy0xIDIuMy0yLjMgMi4zcy0yLjMtMS0yLjMtMi4zYzAtMSAuNy0xLjkgMS42LTIuMiAwLS44LS4xLTIuMyAwLTMuOSAwLS43LjMtMS4xLjgtMS4yLjktLjIgMS42LjcgMi43IDIuNC4yLjMuNS43LjcgMXYtOC42bC02LjktMnYyMGw3IDJ2LTkuNGMtLjUtLjMtMS0xLTEuOS0yLjIiLz48Y2lyY2xlIGN4PSIxMS41IiBjeT0iMjIuNSIgcj0iLjciLz48cGF0aCBkPSJtMTYuOSAxNy45Yy45LTEuMyAxLjgtMi41IDIuOC0yLjEuNy4yIDEuNS45IDIuMiAxLjcuMy4zLjcuNyAxIDF2LTEwLjVsLTcgMnY5Yy40LS4zLjctLjggMS0xLjEiLz48cGF0aCBkPSJtMjEgMTguNGMtLjYtLjUtMS4yLTEuMi0xLjYtMS4zLS4zLjItMSAxLTEuMyAxLjYtLjcuOS0xLjMgMS44LTIgMi4xdjkuMmw3LTJ2LThjLS44LS4zLTEuNC0uOS0yLjEtMS42Ii8+PC9nPjwvc3ZnPg=="
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cd86cab5-05ef-40d3-8c1a-babb2d88f47b",
+    "Name": "AMDSchemad5348ca0Detail",
+    "ModifiedOnUtc": "\/Date(1634815543000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Requests\"",
+    "DependsOn": []
+  }
+}

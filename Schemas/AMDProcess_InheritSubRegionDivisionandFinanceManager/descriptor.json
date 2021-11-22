@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb33565f-9283-49a8-be68-699bad771dff",
+    "Name": "AMDProcess_InheritSubRegionDivisionandFinanceManager",
+    "ModifiedOnUtc": "\/Date(1636979596000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Inherit Sub-Region Division and Finance Manager",
+    "DependsOn": []
+  }
+}

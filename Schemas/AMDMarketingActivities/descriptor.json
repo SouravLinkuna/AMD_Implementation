@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "20b81687-41fa-4e68-a40c-1718741d8d7f",
+    "Name": "AMDMarketingActivities",
+    "ModifiedOnUtc": "\/Date(1637205860000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Activities (L4.1)",
+    "DependsOn": []
+  }
+}

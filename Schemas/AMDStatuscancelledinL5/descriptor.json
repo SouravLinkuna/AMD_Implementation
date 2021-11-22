@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5fd9bf34-0af1-4853-8e28-57f892755410",
+    "Name": "AMDStatuscancelledinL5",
+    "ModifiedOnUtc": "\/Date(1634623919000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Status cancelled in L5",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "49d5955c-ffc0-4994-af5a-d4283388233e",
+    "Name": "AMDProcess_3267ca1",
+    "ModifiedOnUtc": "\/Date(1636449754000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Transfer amount Regional Budget",
+    "DependsOn": []
+  }
+}

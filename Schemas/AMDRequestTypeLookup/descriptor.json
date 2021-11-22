@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "70419362-bf70-4591-90b2-afc06eb94e67",
+    "Name": "AMDRequestTypeLookup",
+    "ModifiedOnUtc": "\/Date(1634726666000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Request Type Lookup",
+    "DependsOn": []
+  }
+}

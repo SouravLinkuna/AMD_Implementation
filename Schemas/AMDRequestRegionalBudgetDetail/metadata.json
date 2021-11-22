@@ -1,0 +1,157 @@
+= MetaData.Schema.UId "ae8192ab-f192-49c5-861b-a7045c13ef73"
+= MetaData.Schema.A2 "AMDRequestRegionalBudgetDetail"
+= MetaData.Schema.A5 "e963cf74-34ff-46d5-9449-49c28966575e"
+= MetaData.Schema.B6 "a7c5f3ec-e420-a7db-6594-97483bfd478f"
+= MetaData.Schema.B8 "7.18.3.1241"
+= MetaData.Schema.EG1.UId "e85385eb-ab9f-4ea6-8579-861493e3ae5b"
+= MetaData.Schema.EG1.A2 "AMDRequestRegionalBudgetDetailEventsProcess"
+= MetaData.Schema.EG1.A5 "e963cf74-34ff-46d5-9449-49c28966575e"
++ MetaData.Schema.EG1.B8 "7.18.3.1241"
+- MetaData.Schema.EG1.FJ1.["4cb2c84d-f135-405d-a831-fc8a8e337b80"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["b41b6ac0-51c3-464f-a4ca-1f8f7ac35eb9"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d9e67329-fde2-4fbd-aa49-2d69ca3d2b5b"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["d9e67329-fde2-4fbd-aa49-2d69ca3d2b5b"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["4cb16350-d39b-4247-9da5-33032cf8667d"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["4cb16350-d39b-4247-9da5-33032cf8667d"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d185837a-b568-43f2-a09a-28512af1957a"].L8.GS2
+- MetaData.Schema.EG1.FJ1.["d185837a-b568-43f2-a09a-28512af1957a"].L8.GS5
+- MetaData.Schema.EG1.FJ1.["d2be9529-efa0-4912-b579-5692b08ddd03"].L8.GS5
+= MetaData.Schema.EG1.BK8 "7bb7d6a5-e7a3-4837-83bc-7f785d688165"
+= MetaData.Schema.EG1.BK37.A3 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
+= MetaData.Schema.EG1.BK4.["08594d74-60b0-45ce-bf17-bac1a8b127f7"].CK2.["496d4a3c-b644-4a65-b0ed-2534d9236da5"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["90027ac8-c9c3-4d21-a4f9-da1cde752cd1"].CK2.["d8b8410f-5c8a-4ddc-8fc2-353483452aed"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["5f3bfbbe-1820-44ca-92f1-6f993169b2dd"].CK2.["d7c806b7-a29b-4ce5-9167-b3319472e772"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["dbf48103-dcf6-4f53-a052-d727a95ea0b4"].CK2.["933bf2fc-d052-40c8-a3e0-bf60049da5d8"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
+= MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
++ MetaData.Schema.EG1.Labels []
++ MetaData.Schema.D17 true
+= MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
++ MetaData.Schema.D4 "cb1a078c-3aa5-4906-a5e9-717e50b5b6ad"
++ MetaData.Schema.D2 {
+  "UId": "cb1a078c-3aa5-4906-a5e9-717e50b5b6ad",
+  "A2": "AMDName",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd",
+  "E5": false
+}
++ MetaData.Schema.D2 {
+  "UId": "329986b7-b721-443b-9fae-7ee317907ec6",
+  "A2": "AMDRequest",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "a6f6d3eb-9a99-41e6-8aa0-723a2170a053",
+  "E6": true,
+  "E17": "AMDRequestId",
+  "E18": "AMDRequestAMDName"
+}
++ MetaData.Schema.D2 {
+  "UId": "2a4dbd8d-9f3e-4cad-bfe4-14baf878abce",
+  "A2": "AMDRegionalBudget",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "6a8bbace-abbe-48ba-ab66-14ff19294e34",
+  "E6": true,
+  "E17": "AMDRegionalBudgetId",
+  "E18": "AMDRegionalBudgetAMDName"
+}
++ MetaData.Schema.D2 {
+  "UId": "8218cd59-aca8-4801-bc23-44d96a4cc841",
+  "A2": "AMDTransferAmount",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "f5346d3a-799b-45ae-822c-76011e6ecbbb",
+  "A2": "AMDSubRegionalDistribution",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "361c3376-36b9-4023-a4d0-fe63732f9b6b",
+  "E6": true,
+  "E17": "AMDSubRegionalDistributionId",
+  "E18": "AMDSubRegionalDistributionAMDName"
+}
++ MetaData.Schema.D2 {
+  "UId": "6bc90264-b6ed-49d9-8586-9cd7c5760522",
+  "A2": "AMDMarketingFunds",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "b5802df6-5dc5-4469-a1ee-a5bfeb1daea1",
+  "E6": true,
+  "E17": "AMDMarketingFundsId",
+  "E18": "AMDMarketingFundsAMDName"
+}
++ MetaData.Schema.D2 {
+  "UId": "989622bf-cffe-4710-893b-1d84daa9d598",
+  "A2": "AMDPosting",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "feae79f8-a7b6-4e02-a531-ac3aae964b64",
+  "E6": true,
+  "E17": "AMDPostingId",
+  "E18": "AMDPostingAMDName"
+}
++ MetaData.Schema.D2 {
+  "UId": "cc47d762-5364-4237-8e1b-cce0b1e240cb",
+  "A2": "AMDInitialAmount",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "434563be-35e9-4fe1-bca0-f4a068a2ef01",
+  "A2": "AMDFinalAmount",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+}
++ MetaData.Schema.D2 {
+  "UId": "60197f8a-36f5-4e69-bea4-28698d30af2a",
+  "A2": "AMDAccountingClassification",
+  "A3": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A4": "ae8192ab-f192-49c5-861b-a7045c13ef73",
+  "A5": "e963cf74-34ff-46d5-9449-49c28966575e",
+  "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+  "S4": "315ded79-f168-4449-833a-3153bcaa18bf",
+  "E6": true,
+  "E17": "AMDAccountingClassificationId",
+  "E18": "AMDAccountingClassificationName"
+}
+~ MetaData.Schema.D2 ["ae0e45ca-c495-4fe7-a39d-3ab7278e1617","e80190a5-03b2-4095-90f7-a193a960adee","ebf6bb93-8aa6-4a01-900d-c6ea67affe21","9928edec-4272-425a-93bb-48743fee4b04","3015559e-cbc6-406a-88af-07f7930be832","3fabd836-6a53-4d8d-9069-6df88d9dae1e","cb1a078c-3aa5-4906-a5e9-717e50b5b6ad","329986b7-b721-443b-9fae-7ee317907ec6","2a4dbd8d-9f3e-4cad-bfe4-14baf878abce","8218cd59-aca8-4801-bc23-44d96a4cc841","f5346d3a-799b-45ae-822c-76011e6ecbbb","6bc90264-b6ed-49d9-8586-9cd7c5760522","989622bf-cffe-4710-893b-1d84daa9d598","cc47d762-5364-4237-8e1b-cce0b1e240cb","434563be-35e9-4fe1-bca0-f4a068a2ef01","60197f8a-36f5-4e69-bea4-28698d30af2a"]
+= MetaData.Schema.D20.A2 "AMDRequestRegionalBudgetDetailEvents"
+- MetaData.Schema.EG1.B6
+- MetaData.Schema.EG1.BK29
+- MetaData.Schema.EG1.BK30
+- MetaData.Schema.D1
+- MetaData.Schema.D20.A5
+- MetaData.Schema.D20.FA4
+- MetaData.Schema.D20.FA5
+- MetaData.Schema.D20.FA6
+- MetaData.Schema.D20.FA7
+- MetaData.Schema.D20.FA11
+- MetaData.Schema.D20.FA12
+- MetaData.Schema.D20.FA15
++ MetaData.Schema.B7 false
++ MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16 false
++ MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16 false
++ MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16 false
++ MetaData.Schema.D2.["9928edec-4272-425a-93bb-48743fee4b04"].E16 false
++ MetaData.Schema.D2.["3015559e-cbc6-406a-88af-07f7930be832"].E16 false
++ MetaData.Schema.D2.["3fabd836-6a53-4d8d-9069-6df88d9dae1e"].E16 false

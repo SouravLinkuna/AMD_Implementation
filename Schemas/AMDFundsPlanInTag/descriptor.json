@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f3373312-0887-46bb-8697-a7fdddaefc18",
+    "Name": "AMDFundsPlanInTag",
+    "ModifiedOnUtc": "\/Date(1634202995000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Funds Plan section record tag",
+    "DependsOn": []
+  }
+}

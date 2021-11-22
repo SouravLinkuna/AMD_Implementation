@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "157b7a8e-c134-4658-8949-b88b4e248d6d",
+    "Name": "AMDProcess_TransferamountMktgFunds",
+    "ModifiedOnUtc": "\/Date(1636429149000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Transfer amount Mktg Funds",
+    "DependsOn": []
+  }
+}

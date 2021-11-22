@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "53666a8b-020d-4488-9f2e-722764c72ac4",
+    "Name": "AMDProductDetail",
+    "ModifiedOnUtc": "\/Date(1636978556000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "AMDProduct",
+    "DependsOn": []
+  }
+}

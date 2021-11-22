@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "18bc82ab-8bee-4ec3-a027-86d2cb98829a",
+    "Name": "AMDAMDRequestRegionalBudgetDetail39021ee7Page",
+    "ModifiedOnUtc": "\/Date(1636724956000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Card schema: \"Request Regional Budget Detail\"",
+    "DependsOn": []
+  }
+}

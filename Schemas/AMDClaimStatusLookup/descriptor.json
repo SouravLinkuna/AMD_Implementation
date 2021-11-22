@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "06357f00-5907-4494-8904-72a7f4de7b57",
+    "Name": "AMDClaimStatusLookup",
+    "ModifiedOnUtc": "\/Date(1633350523000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Claim Status Lookup",
+    "DependsOn": []
+  }
+}

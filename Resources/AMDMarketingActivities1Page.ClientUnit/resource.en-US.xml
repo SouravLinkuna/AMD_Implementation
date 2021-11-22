@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Activities&quot;" />
+			<Item Name="LocalizableStrings.AMDEndDate03f902dd6d9b48518daa5ebc33a086a5LabelCaption.Value" Value="Planned End Date" />
+			<Item Name="LocalizableStrings.AMDSchema1e3e46f8Detail1d3ad87dDetailCaptionOnPage.Value" Value="Claims" />
+			<Item Name="LocalizableStrings.AMDSchemae77ed3b1Detaile97702f3DetailCaptionOnPage.Value" Value="Product" />
+			<Item Name="LocalizableStrings.AMDStartDate8b4ab971594d4814891b64bb5713d81fLabelCaption.Value" Value="Planned Start Date" />
+			<Item Name="LocalizableStrings.Tab18da87c2TabLabelTabCaption.Value" Value="Claims" />
+			<Item Name="LocalizableStrings.Tab7ae4708aTabLabelGroup3c865924GroupCaption.Value" Value="Period Relevance" />
+			<Item Name="LocalizableStrings.Tab7ae4708aTabLabelGroup45f278b1GroupCaption.Value" Value="Basic Details" />
+			<Item Name="LocalizableStrings.Tab7ae4708aTabLabelGroupea53696fGroupCaption.Value" Value="Expiration" />
+			<Item Name="LocalizableStrings.Tab7ae4708aTabLabelTabCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tabf1f60d37TabLabelTabCaption.Value" Value="Product Info" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Funds&quot;" />
+			<Item Name="LocalizableStrings.AMDEndDate2ddb8dbef9d0466288e0cc4c3ea21976LabelCaption.Value" Value="Planned End Date" />
+			<Item Name="LocalizableStrings.AMDMarketingFundsStatuse0aea04f0f084dc39c0b7c25bb2be69cLabelCaption.Value" Value="Status" />
+			<Item Name="LocalizableStrings.AMDSchema2b70b998Detail4ee51114DetailCaptionOnPage.Value" Value="Transfer Details" />
+			<Item Name="LocalizableStrings.AMDSchema2b70b998Detailbd290e03DetailCaptionOnPage.Value" Value="Transfer Details" />
+			<Item Name="LocalizableStrings.AMDSchema3ade3461Detaile90060e6DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetailfd59109fDetailCaptionOnPage.Value" Value="Posting" />
+			<Item Name="LocalizableStrings.AMDSchema8639e5f8Detailb67e5880DetailCaptionOnPage.Value" Value="Requests" />
+			<Item Name="LocalizableStrings.AMDSchemac66c1ad9Detailf56633cfDetailCaptionOnPage.Value" Value="Marketing Plans (L4)" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detaild3c19486DetailCaptionOnPage.Value" Value="Requests" />
+			<Item Name="LocalizableStrings.AMDStartDatecdf456006435495090f8f5d73823810bLabelCaption.Value" Value="Planned Start Date" />
+			<Item Name="LocalizableStrings.STRING0841deb9f1c74b46b81f8143d5ebfabbLabelCaption.Value" Value="Fund ID" />
+			<Item Name="LocalizableStrings.Tab0f3b9698TabLabelTabCaption.Value" Value="Transfer Details" />
+			<Item Name="LocalizableStrings.Tab1d8d9872TabLabelGroup1991a4cbGroupCaption.Value" Value="Expiration" />
+			<Item Name="LocalizableStrings.Tab1d8d9872TabLabelGroup1c108957GroupCaption.Value" Value="Period Relevance" />
+			<Item Name="LocalizableStrings.Tab1d8d9872TabLabelTabCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tab9232e028TabLabelTabCaption.Value" Value="Requests" />
+			<Item Name="LocalizableStrings.Tabe4571b12TabLabelTabCaption.Value" Value="MArketing Activities" />
+		</Items>
+	</Group>
+</Resources>

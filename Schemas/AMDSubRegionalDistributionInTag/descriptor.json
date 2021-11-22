@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5d87b7d2-c283-4c80-a493-8b423fa4efca",
+    "Name": "AMDSubRegionalDistributionInTag",
+    "ModifiedOnUtc": "\/Date(1633343664000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sub-Regional Distribution section record tag",
+    "DependsOn": []
+  }
+}

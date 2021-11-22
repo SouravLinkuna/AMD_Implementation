@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "921d07b6-792b-421c-884d-a57c731fa7b0",
+    "Name": "Period",
+    "ModifiedOnUtc": "\/Date(1634536340000)\/",
+    "Parent": {
+      "UId": "5b473ba3-604c-41d6-b25d-032754dad4d2",
+      "Name": "Period"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Period",
+    "DependsOn": []
+  }
+}

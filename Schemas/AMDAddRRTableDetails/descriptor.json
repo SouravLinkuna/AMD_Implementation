@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e45daec4-e17a-4abf-9316-99111f2094cc",
+    "Name": "AMDAddRRTableDetails",
+    "ModifiedOnUtc": "\/Date(1636716115000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add RR Table Details",
+    "DependsOn": []
+  }
+}

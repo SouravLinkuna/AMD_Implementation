@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "84d0585f-4155-4b88-8db2-97b63c857cb3"
+= MetaData.Schema.A2 "AMDSchema9b1adf10Detail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "84d0585f-4155-4b88-8db2-97b63c857cb3"
+= MetaData.Schema.B6 "a7c5f3ec-e420-a7db-6594-97483bfd478f"
+= MetaData.Schema.B8 "7.18.3.1241"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

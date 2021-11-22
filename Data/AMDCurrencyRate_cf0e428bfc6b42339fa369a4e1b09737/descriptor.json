@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "541cc798-43ee-4ac8-b103-a51fe271d2f3",
+    "Name": "AMDCurrencyRate_cf0e428bfc6b42339fa369a4e1b09737",
+    "ModifiedOnUtc": "\/Date(1635923849000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "e14c6037-56bb-4724-95b6-3dc29d7f6b4f",
+      "Name": "CurrencyRate"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ModifiedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "StartDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "EndDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Currency",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Rate",
+        "DataTypeValueUId": "a4aaf398-3531-4a0d-9d75-a587f5b5b59e"
+      },
+      {
+        "ColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "RateMantissa",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      }
+    ]
+  }
+}

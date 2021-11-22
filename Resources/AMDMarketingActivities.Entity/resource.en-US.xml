@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Marketing Activities (L4.1)" />
+			<Item Name="Columns.AMDActivityType.Caption" Value="Activity Type" />
+			<Item Name="Columns.AMDClaims.Caption" Value="Claims" />
+			<Item Name="Columns.AMDCountry.Caption" Value="Country" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDEndDate.Caption" Value="End Date" />
+			<Item Name="Columns.AMDEndQuarter.Caption" Value="End Quarter" />
+			<Item Name="Columns.AMDEndYear.Caption" Value="End Year" />
+			<Item Name="Columns.AMDExpiredDate.Caption" Value="Expired Date" />
+			<Item Name="Columns.AMDExpiredQuarter.Caption" Value="Expired Quarter" />
+			<Item Name="Columns.AMDExpiredYear.Caption" Value="Expired Year" />
+			<Item Name="Columns.AMDLocation.Caption" Value="Location" />
+			<Item Name="Columns.AMDMarketingActivityStatus.Caption" Value="Marketing Activity Status" />
+			<Item Name="Columns.AMDMarketingFunds.Caption" Value="Marketing Funds" />
+			<Item Name="Columns.AMDMarketingManager.Caption" Value="Marketing Manager" />
+			<Item Name="Columns.AMDMarketingPlans.Caption" Value="Marketing Plans" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDOrigination.Caption" Value="Origination" />
+			<Item Name="Columns.AMDOwner.Caption" Value="Owner" />
+			<Item Name="Columns.AMDPeriod.Caption" Value="Period" />
+			<Item Name="Columns.AMDPOCSource.Caption" Value="POC Source" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="Columns.AMDReimbRate.Caption" Value="AMD Reimb Rate %" />
+			<Item Name="Columns.AMDSpendType.Caption" Value="Spend Type" />
+			<Item Name="Columns.AMDStartDate.Caption" Value="Start Date" />
+			<Item Name="Columns.AMDStartQuarter.Caption" Value="Start Quarter" />
+			<Item Name="Columns.AMDStartYear.Caption" Value="Start Year" />
+			<Item Name="Columns.AMDTaxCode.Caption" Value="Tax Code" />
+			<Item Name="Columns.AMDTaxJurisdiction.Caption" Value="Tax Jurisdiction" />
+			<Item Name="Columns.AMDTotalAmount.Caption" Value="Total Amount" />
+			<Item Name="Columns.AMDWHTTax.Caption" Value="WHT Tax" />
+		</Items>
+	</Group>
+</Resources>

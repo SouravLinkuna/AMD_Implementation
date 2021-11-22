@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5d9629d-8ae6-4b87-b09b-29ecc2865def",
+    "Name": "AMDMarketingPlansTag",
+    "ModifiedOnUtc": "\/Date(1634041064000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Plans section tag",
+    "DependsOn": []
+  }
+}

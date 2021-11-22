@@ -1,0 +1,91 @@
+﻿{
+  "Descriptor": {
+    "UId": "016607d5-5914-4b15-8965-51dc6952684d",
+    "Name": "AMDPeriod_27220239f94e4d3d98365b160d26c5ab",
+    "ModifiedOnUtc": "\/Date(1635924073000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "5b473ba3-604c-41d6-b25d-032754dad4d2",
+      "Name": "Period"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "ModifiedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "5ee4ad02-c1b8-4938-955e-a930224e3093",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "StartDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "30b7698a-7531-4fc5-ad6b-db64e289b477",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "DueDate",
+        "DataTypeValueUId": "603d4960-a1a2-45e9-b232-206a54421b01"
+      },
+      {
+        "ColumnUId": "28325522-3317-4110-a881-cf22df0f5dba",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "PeriodType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "47036bbd-4d29-4cef-8a9c-2ffbbcde06af",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Year",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "cd0f614a-b891-4c75-9f44-c3ebfab8ac35",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Quarter",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "a02e67d6-cf4c-46d8-a7de-9f5e98792e39",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Parent",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

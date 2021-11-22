@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "267e9833-b894-417c-b619-9547aad6a070",
+    "Name": "AMDSchema4ad1aeacDetail",
+    "ModifiedOnUtc": "\/Date(1635948961000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Request Sub-Regional Distribution\"",
+    "DependsOn": []
+  }
+}

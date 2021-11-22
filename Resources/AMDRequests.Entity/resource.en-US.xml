@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Requests" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDBalance.Caption" Value="Balance" />
+			<Item Name="Columns.AMDFund.Caption" Value="Fund" />
+			<Item Name="Columns.AMDInitialAmount.Caption" Value="Initial Amount" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDSourceMarketingFund.Caption" Value="Source Marketing Fund" />
+			<Item Name="Columns.AMDSourceRegionalBudget.Caption" Value="Source Regional Budget" />
+			<Item Name="Columns.AMDSourceSubRegionBudget.Caption" Value="Source Sub Region Budget" />
+			<Item Name="Columns.AMDStatus.Caption" Value="Status" />
+			<Item Name="Columns.AMDTransferAmount.Caption" Value="Transfer Amount" />
+			<Item Name="Columns.AMDTransferType.Caption" Value="Transfer Type" />
+			<Item Name="Columns.AMDType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

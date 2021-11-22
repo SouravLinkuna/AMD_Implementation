@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Organizational Data" />
+			<Item Name="Columns.AMDDistributionChannel.Caption" Value="Distribution Channel" />
+			<Item Name="Columns.AMDDivision.Caption" Value="Division" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDOrganizationalDataType.Caption" Value="Organizational Data Type" />
+			<Item Name="Columns.AMDSalesGroup.Caption" Value="Sales Group" />
+			<Item Name="Columns.AMDSalesOffice.Caption" Value="Sales Office" />
+			<Item Name="Columns.AMDSalesOrganization.Caption" Value="Sales Organization" />
+			<Item Name="Columns.AMDServiceOrganization.Caption" Value="Service Organization" />
+		</Items>
+	</Group>
+</Resources>

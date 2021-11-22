@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Posting&quot;" />
+			<Item Name="LocalizableStrings.AMDApprove.Value" Value="Approve" />
+			<Item Name="LocalizableStrings.AMDName4ec40e90f5b64a6caae1589f5e69cfb2LabelCaption.Value" Value="Posting ID" />
+			<Item Name="LocalizableStrings.AMDSchema2b70b998Detaile14319d6DetailCaptionOnPage.Value" Value="Giving Fund" />
+			<Item Name="LocalizableStrings.AMDSchema4ad1aeacDetail7df971c8DetailCaptionOnPage.Value" Value="Giving Fund" />
+			<Item Name="LocalizableStrings.AMDSchemad9f7a46cDetail588e84abDetailCaptionOnPage.Value" Value="Giving Fund" />
+			<Item Name="LocalizableStrings.LOOKUP4f1b07afd5e0463882902e34b6ec6138LabelCaption.Value" Value="Receiving Fund" />
+			<Item Name="LocalizableStrings.LOOKUPb8e0bce880a0481aabc1387ef4d9459fLabelCaption.Value" Value="Receiving Fund" />
+			<Item Name="LocalizableStrings.LOOKUPf087ff5038204bb9bf2e4ac7120bb7cbLabelCaption.Value" Value="Receiving Fund" />
+			<Item Name="LocalizableStrings.ModifiedOnecea2e4f3bb643a1b87763b7a88d9579LabelCaption.Value" Value="Transaction Date" />
+			<Item Name="LocalizableStrings.Tab3f1aa3c0TabLabelTabCaption.Value" Value="Marketing Fund" />
+			<Item Name="LocalizableStrings.Tab8d76c51aTabLabelTabCaption.Value" Value="Regional Budget" />
+			<Item Name="LocalizableStrings.Taba9c1dedbTabLabelTabCaption.Value" Value="Sub-Regional Distribution" />
+		</Items>
+	</Group>
+</Resources>

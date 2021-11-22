@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "47da8f6a-0d62-42f5-baf4-acb4a9edf149",
+    "Name": "MainHeaderSchema",
+    "ModifiedOnUtc": "\/Date(1635145273000)\/",
+    "Parent": {
+      "UId": "52446ecf-4b3e-41ce-8962-e48c63d583f8",
+      "Name": "MainHeaderSchema"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "MainHeaderSchema",
+    "DependsOn": []
+  }
+}

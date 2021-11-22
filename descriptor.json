@@ -1,0 +1,22 @@
+﻿{
+  "Descriptor": {
+    "UId": "a7c5f3ec-e420-a7db-6594-97483bfd478f",
+    "Name": "AMD_Implementation",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1635757183000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/AMD_Implementation.csproj",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      },
+      {
+        "UId": "82306a23-d5c6-420b-b81b-2d145f8e2f34",
+        "PackageVersion": "7.8.0",
+        "Name": "SSP"
+      }
+    ]
+  }
+}

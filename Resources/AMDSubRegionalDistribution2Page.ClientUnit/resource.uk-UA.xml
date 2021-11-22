@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Sub-Regional Distribution&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema2e02fe7cDetail6d6d824aDetailCaptionOnPage.Value" Value="Базовий об'єкт" />
+			<Item Name="LocalizableStrings.AMDSchema9b1adf10Detail68b65721DetailCaptionOnPage.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail3ecc5471DetailCaptionOnPage.Value" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

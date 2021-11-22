@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "762ce4f5-6622-48f0-9d6c-ed0de1ded235",
+    "Name": "AMDFundsPlanInFolder",
+    "ModifiedOnUtc": "\/Date(1634202988000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Funds Plan in Folder",
+    "DependsOn": []
+  }
+}

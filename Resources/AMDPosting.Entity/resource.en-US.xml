@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Posting" />
+			<Item Name="Columns.AMDBalance.Caption" Value="Balance" />
+			<Item Name="Columns.AMDFundLevel.Caption" Value="Fund Level" />
+			<Item Name="Columns.AMDInitialAmount.Caption" Value="Initial Amount" />
+			<Item Name="Columns.AMDIsRecordOld.Caption" Value="IsRecordOld" />
+			<Item Name="Columns.AMDMarketingFund.Caption" Value="Marketing Fund" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDRegionalBudget.Caption" Value="Regional Budget" />
+			<Item Name="Columns.AMDRequestType.Caption" Value="Request Type" />
+			<Item Name="Columns.AMDStatus.Caption" Value="Status" />
+			<Item Name="Columns.AMDSubRegionalDistribution.Caption" Value="SubRegional Distribution" />
+			<Item Name="Columns.AMDTransferAmount.Caption" Value="Transfer Amount" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow2_1101c75d83ca44bf9fb721547bbc3a5f.Caption" Value="Posting Id is empty" />
+			<Item Name="EventsProcessSchema.BaseElements.DefaultSequenceFlow1_ce6f9806aca4447b81119d4e10b917d1.Caption" Value="Conditional flow 1" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask1.Caption" Value="Get entity schema to generate number" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask2.Caption" Value="Save number to entity column" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_3d2b283f962a438d88d5ac12fc2d22cd.Caption" Value="Before Posting adding" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Caption" Value="Generate ordinal number 1" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.EntitySchema.Caption" Value="EntitySchema" />
+			<Item Name="EventsProcessSchema.BaseElements.UserTask1.Parameters.ResultCode.Caption" Value="ResultCode" />
+			<Item Name="EventsProcessSchema.Caption" Value="Posting" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_3b37f75424c443c0b57027cbb6d25898.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_3b37f75424c443c0b57027cbb6d25898.Lanes.Lane_181ab58003d943779b07e4ff3ce13aed.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

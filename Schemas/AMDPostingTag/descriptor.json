@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00c2a0eb-33cc-4883-9fe9-eb759e3af1eb",
+    "Name": "AMDPostingTag",
+    "ModifiedOnUtc": "\/Date(1634892509000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Posting section tag",
+    "DependsOn": []
+  }
+}

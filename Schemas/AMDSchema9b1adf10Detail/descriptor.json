@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "84d0585f-4155-4b88-8db2-97b63c857cb3",
+    "Name": "AMDSchema9b1adf10Detail",
+    "ModifiedOnUtc": "\/Date(1633351664000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Partners",
+    "DependsOn": []
+  }
+}

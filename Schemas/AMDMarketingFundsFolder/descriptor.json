@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "79832f0d-f065-4f0d-a5ae-a2a65dc77f23",
+    "Name": "AMDMarketingFundsFolder",
+    "ModifiedOnUtc": "\/Date(1634536321000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Funds folder",
+    "DependsOn": []
+  }
+}

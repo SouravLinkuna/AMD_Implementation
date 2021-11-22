@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Activities&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema1e3e46f8Detail1d3ad87dDetailCaptionOnPage.Value" Value="Базовий об'єкт" />
+		</Items>
+	</Group>
+</Resources>

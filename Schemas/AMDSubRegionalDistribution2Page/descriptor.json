@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e7763a68-1694-43f4-90f1-7a7ba97f3971",
+    "Name": "AMDSubRegionalDistribution2Page",
+    "ModifiedOnUtc": "\/Date(1637153043000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Sub-Regional Distribution\"",
+    "DependsOn": []
+  }
+}

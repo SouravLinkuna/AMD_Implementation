@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "76cc2b5e-a23e-4cfd-a631-4b6892abdb6c",
+    "Name": "AMDProcess_b27f53c",
+    "ModifiedOnUtc": "\/Date(1635146085000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Open edit page by websocket",
+    "DependsOn": []
+  }
+}

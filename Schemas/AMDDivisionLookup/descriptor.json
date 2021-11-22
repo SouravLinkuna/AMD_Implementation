@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5f20f623-ec39-4760-a51e-e6a294aad338",
+    "Name": "AMDDivisionLookup",
+    "ModifiedOnUtc": "\/Date(1633344585000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Division Lookup",
+    "DependsOn": []
+  }
+}

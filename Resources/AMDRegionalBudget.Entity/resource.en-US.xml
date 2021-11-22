@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Regional Budget" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDBalance.Caption" Value="Balance" />
+			<Item Name="Columns.AMDCompanyCode.Caption" Value="Company Code" />
+			<Item Name="Columns.AMDConsumed.Caption" Value="Consumed" />
+			<Item Name="Columns.AMDCostCenter.Caption" Value="Cost Center" />
+			<Item Name="Columns.AMDCostCenterDescription.Caption" Value="Cost Center Description" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDDivision.Caption" Value="Division" />
+			<Item Name="Columns.AMDEndDate.Caption" Value="End Date" />
+			<Item Name="Columns.AMDEndQuarter.Caption" Value="End Quarter" />
+			<Item Name="Columns.AMDEndYear.Caption" Value="End Year" />
+			<Item Name="Columns.AMDExpiredDate.Caption" Value="Expired Date" />
+			<Item Name="Columns.AMDExpiredQuarter.Caption" Value="Expired Quarter" />
+			<Item Name="Columns.AMDExpiredYear.Caption" Value="Expired Year" />
+			<Item Name="Columns.AMDFinanceManager.Caption" Value="Finance Manager" />
+			<Item Name="Columns.AMDFundIDenum.Caption" Value="Fund ID enum" />
+			<Item Name="Columns.AMDFundsPlan.Caption" Value="Funds Plan" />
+			<Item Name="Columns.AMDFundType.Caption" Value="Fund Type" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDParentFundId.Caption" Value="Parent Fund Id" />
+			<Item Name="Columns.AMDPeriod.Caption" Value="Period" />
+			<Item Name="Columns.AMDPeriodString.Caption" Value="Period String" />
+			<Item Name="Columns.AMDProgram.Caption" Value="Program" />
+			<Item Name="Columns.AMDQuarterName.Caption" Value="Quarter Name" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="Columns.AMDRequests.Caption" Value="Requests" />
+			<Item Name="Columns.AMDSalesOrg.Caption" Value="Sales Org" />
+			<Item Name="Columns.AMDStartDate.Caption" Value="Start Date" />
+			<Item Name="Columns.AMDStartQuarter.Caption" Value="Start Quarter" />
+			<Item Name="Columns.AMDStartYear.Caption" Value="Start Year" />
+			<Item Name="Columns.AMDStatus.Caption" Value="Status" />
+			<Item Name="Columns.AMDTotalAllocatedBudget.Caption" Value="Total Allocated Budget" />
+			<Item Name="Columns.AMDTransferAmount.Caption" Value="Transfer Amount" />
+			<Item Name="Columns.AMDYear.Caption" Value="Year" />
+			<Item Name="EventsProcessSchema.Caption" Value="Regional Budget" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_b972f0eea16d46ef9b28bfb671b8aaee.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_b972f0eea16d46ef9b28bfb671b8aaee.Lanes.Lane_11ddeccd974d43a2b48d459132a49862.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

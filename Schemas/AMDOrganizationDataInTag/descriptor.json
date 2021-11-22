@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3edc0ba1-6144-4f30-971e-ec03025be63a",
+    "Name": "AMDOrganizationDataInTag",
+    "ModifiedOnUtc": "\/Date(1634728545000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Organization Data section record tag",
+    "DependsOn": []
+  }
+}

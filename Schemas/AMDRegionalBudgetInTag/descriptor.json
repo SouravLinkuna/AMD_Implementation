@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "74a2948d-1e4d-4d79-9ad1-cf0afd4d713a",
+    "Name": "AMDRegionalBudgetInTag",
+    "ModifiedOnUtc": "\/Date(1633353400000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Regional Budget section record tag",
+    "DependsOn": []
+  }
+}

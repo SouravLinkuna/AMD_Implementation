@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c380f8ad-9450-473f-909f-37bda2ccd7b1",
+    "Name": "AMDPostingFile",
+    "ModifiedOnUtc": "\/Date(1634892493000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Posting attachment",
+    "DependsOn": []
+  }
+}

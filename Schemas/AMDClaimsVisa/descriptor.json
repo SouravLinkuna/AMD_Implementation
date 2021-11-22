@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d45b8d4-b05b-458c-a0ad-efbde889b005",
+    "Name": "AMDClaimsVisa",
+    "ModifiedOnUtc": "\/Date(1633435293000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Claims",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a287465-0c6f-48db-b007-fa35c290750e",
+    "Name": "AMDOrganizationDataFolder",
+    "ModifiedOnUtc": "\/Date(1634728508000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Organization Data folder",
+    "DependsOn": []
+  }
+}

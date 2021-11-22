@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ccb62d8f-a15e-4b7b-9e8a-539904d88cb2",
+    "Name": "AMDProcess_InheritFundsPlanfieldintoL1",
+    "ModifiedOnUtc": "\/Date(1636530432000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Inherit Funds Plan field into L1",
+    "DependsOn": []
+  }
+}

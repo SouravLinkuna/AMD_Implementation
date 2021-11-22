@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2e59f507-4995-462b-a856-e2894f7aa9c2",
+    "Name": "AMDSalesOrgLookup",
+    "ModifiedOnUtc": "\/Date(1633344968000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "SalesOrg Lookup",
+    "DependsOn": []
+  }
+}

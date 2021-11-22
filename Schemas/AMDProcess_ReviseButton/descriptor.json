@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e6aa689-c037-464b-9777-93bf995ab00d",
+    "Name": "AMDProcess_ReviseButton",
+    "ModifiedOnUtc": "\/Date(1636627461000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Revise Button",
+    "DependsOn": []
+  }
+}

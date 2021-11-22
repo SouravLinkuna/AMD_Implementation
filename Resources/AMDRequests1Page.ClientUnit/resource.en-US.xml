@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Requests&quot;" />
+			<Item Name="LocalizableStrings.AMDFund72ad6217e85f42769380a8a3d1e4584fLabelCaption.Value" Value="Fund Level" />
+			<Item Name="LocalizableStrings.AMDFundCombine.Value" Value="Fund ID" />
+			<Item Name="LocalizableStrings.AMDFundCombineTip.Value" Value="This field shows the fund ID of the fund from where the request is initiated" />
+			<Item Name="LocalizableStrings.AMDName57327825e0ff49ec91f1351570dcdafbLabelCaption.Value" Value="Request Id" />
+			<Item Name="LocalizableStrings.AMDSchema207b8e43Detail376f07d2DetailCaptionOnPage.Value" Value="Regional Budget" />
+			<Item Name="LocalizableStrings.AMDSchema2ab7e7ceDetail679204daDetailCaptionOnPage.Value" Value="Sub-Regional Distribution" />
+			<Item Name="LocalizableStrings.AMDSchema2b70b998Detaildaf9e164DetailCaptionOnPage.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.AMDSchema4ad1aeacDetaild438667aDetailCaptionOnPage.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.AMDSchemad9f7a46cDetail3cbf20a8DetailCaptionOnPage.Value" Value="Target Funds" />
+			<Item Name="LocalizableStrings.AMDSchemad9f7a46cDetail5809c584DetailCaptionOnPage.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.AMDSchemad9f7a46cDetail7b46729dDetailCaptionOnPage.Value" Value="Target Funds" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail6b8428a8DetailCaptionOnPage.Value" Value="Marketing Funds" />
+			<Item Name="LocalizableStrings.AMDSourceRegionalBudget34db032ea0fc41c5b2857d73debda531LabelCaption.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.AMDType492281e8d2594f4da377703ccd19c98bLabelCaption.Value" Value="Request Type" />
+			<Item Name="LocalizableStrings.INTEGERd8602026aced44508fc7f7b43c8c46e3LabelCaption.Value" Value="Initial Amount" />
+			<Item Name="LocalizableStrings.LOOKUPc7c8ff0cc1344e6cbb9a86c3c77b748dLabelCaption.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.LOOKUPd3469e47b30b4d2bb8fa5b01abc7e49eLabelCaption.Value" Value="Fund" />
+			<Item Name="LocalizableStrings.ModifiedOne4b0ef5144f94313a21f1a7d56683572LabelCaption.Value" Value="Transaction Date" />
+			<Item Name="LocalizableStrings.Tab09554e5eTabLabelTabCaption.Value" Value="Marketing Fund" />
+			<Item Name="LocalizableStrings.Tabb5a5d0feTabLabelTabCaption.Value" Value="Sub Regional Distribution" />
+			<Item Name="LocalizableStrings.Tabd04eef6aTabLabelTabCaption.Value" Value="Regional Budget" />
+		</Items>
+	</Group>
+</Resources>

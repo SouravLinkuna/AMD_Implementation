@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Claims&quot;" />
+			<Item Name="LocalizableStrings.AMDNameab2650669da54906946a16718e5d2ae9LabelCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.AMDSchemaecb35b0dDetail05ca6447DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.INTEGER473f778ac30743dc80d64542c71b4fd6LabelCaption.Value" Value="Amount" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="POP Attachments and notes" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelGroup28802755GroupCaption.Value" Value="Others" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelGroup31996828GroupCaption.Value" Value="Period Relevance" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelGroup4261293eGroupCaption.Value" Value="Payee Details" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelGroup508543e2GroupCaption.Value" Value="Payment Details" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelGroupb8f14d5cGroupCaption.Value" Value="Expiration" />
+			<Item Name="LocalizableStrings.Tab77a9518eTabLabelTabCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tab87d49a3aTabLabelTabCaption.Value" Value="Marketing Activities" />
+		</Items>
+	</Group>
+</Resources>

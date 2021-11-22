@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "da9515e8-eb55-4d26-9e04-a3048d90ca9d",
+    "Name": "AMDProcess_CreateRecords",
+    "ModifiedOnUtc": "\/Date(1636714932000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Create Records",
+    "DependsOn": []
+  }
+}

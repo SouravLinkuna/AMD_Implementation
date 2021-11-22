@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Funds&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema3ade3461Detaile90060e6DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.AMDSchema8639e5f8Detailb67e5880DetailCaptionOnPage.Value" Value="هدف پایه" />
+			<Item Name="LocalizableStrings.AMDSchemac66c1ad9Detailf56633cfDetailCaptionOnPage.Value" Value="Marketing Plans" />
+		</Items>
+	</Group>
+</Resources>

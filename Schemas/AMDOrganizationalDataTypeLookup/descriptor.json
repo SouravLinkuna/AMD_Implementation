@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "eb5e8247-47d9-4af1-8b0c-897441f51c00",
+    "Name": "AMDOrganizationalDataTypeLookup",
+    "ModifiedOnUtc": "\/Date(1634730385000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Organizational Data Type Lookup",
+    "DependsOn": []
+  }
+}

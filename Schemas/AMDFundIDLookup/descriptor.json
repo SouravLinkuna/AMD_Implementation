@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "866a3d8b-357a-4a92-94e9-ff99bc50c604",
+    "Name": "AMDFundIDLookup",
+    "ModifiedOnUtc": "\/Date(1634536352000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "FundID Lookup",
+    "DependsOn": []
+  }
+}

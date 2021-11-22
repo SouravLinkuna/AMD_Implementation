@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Section schema: &quot;Regional Budget (L1)&quot;" />
+			<Item Name="LocalizableStrings.AMDAllocateL1FundstoL2Section.Value" Value="Allocate Funds to L2" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Regional Budget (L1)" />
+			<Item Name="Parameters.380b1404-19e0-c15b-c30d-8cc3e4ad0685.Caption" Value="test" />
+		</Items>
+	</Group>
+</Resources>

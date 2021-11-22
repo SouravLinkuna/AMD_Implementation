@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "adb45060-a641-49bf-9e62-3825a5ea53d6",
+    "Name": "AMDSubRegionalDistributiond3b0dacfSection",
+    "ModifiedOnUtc": "\/Date(1634906469000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Sub-Regional Distribution (L2)\"",
+    "DependsOn": []
+  }
+}

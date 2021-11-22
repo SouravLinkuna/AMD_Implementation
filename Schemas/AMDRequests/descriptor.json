@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a6f6d3eb-9a99-41e6-8aa0-723a2170a053",
+    "Name": "AMDRequests",
+    "ModifiedOnUtc": "\/Date(1637049579000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests",
+    "DependsOn": []
+  }
+}

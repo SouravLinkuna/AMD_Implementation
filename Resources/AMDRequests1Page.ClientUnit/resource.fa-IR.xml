@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Requests&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema207b8e43Detail376f07d2DetailCaptionOnPage.Value" Value="هدف پایه" />
+			<Item Name="LocalizableStrings.AMDSchema2ab7e7ceDetail679204daDetailCaptionOnPage.Value" Value="هدف پایه" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail6b8428a8DetailCaptionOnPage.Value" Value="هدف پایه" />
+		</Items>
+	</Group>
+</Resources>

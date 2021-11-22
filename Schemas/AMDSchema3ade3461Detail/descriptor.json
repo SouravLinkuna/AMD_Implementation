@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4c1e127a-b1f5-412c-a4ca-f0d581cd0209",
+    "Name": "AMDSchema3ade3461Detail",
+    "ModifiedOnUtc": "\/Date(1634815818000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Marketing Activities\"",
+    "DependsOn": []
+  }
+}

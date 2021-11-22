@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Funds Plan" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDCompanyCode.Caption" Value="Company Code" />
+			<Item Name="Columns.AMDCostCenter.Caption" Value="Cost Center" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDDivision.Caption" Value="Division" />
+			<Item Name="Columns.AMDFundDescription.Caption" Value="Fund Description" />
+			<Item Name="Columns.AMDFundPlanID.Caption" Value="FundPlan ID" />
+			<Item Name="Columns.AMDFundsPlanColumn.Caption" Value="Funds Plan" />
+			<Item Name="Columns.AMDFundType.Caption" Value="Fund Type" />
+			<Item Name="Columns.AMDName.Caption" Value="Fund Plan" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDProgram.Caption" Value="Program" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="Columns.AMDSalesOrg.Caption" Value="Sales Org" />
+		</Items>
+	</Group>
+</Resources>

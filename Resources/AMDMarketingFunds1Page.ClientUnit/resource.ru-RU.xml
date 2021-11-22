@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Funds&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema3ade3461Detaile90060e6DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetailfd59109fDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema8639e5f8Detailb67e5880DetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchemac66c1ad9Detailf56633cfDetailCaptionOnPage.Value" Value="Marketing Plans" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detaild3c19486DetailCaptionOnPage.Value" Value="Базовый объект" />
+		</Items>
+	</Group>
+</Resources>

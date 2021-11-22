@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1a5dd7d5-aaf3-4d52-9798-5374a3bd8af3",
+    "Name": "AMDOriginationLookup",
+    "ModifiedOnUtc": "\/Date(1633348139000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Origination Lookup",
+    "DependsOn": []
+  }
+}

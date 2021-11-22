@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "394c785a-2639-48b2-87c7-b39aa3f7cad6",
+    "Name": "AMDReflectBalanceL3_7950d74",
+    "ModifiedOnUtc": "\/Date(1636707166000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Reflect Balance L4",
+    "DependsOn": []
+  }
+}

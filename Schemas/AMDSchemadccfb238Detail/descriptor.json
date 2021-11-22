@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4f1765f2-d897-4b42-aaaa-40adf6e9182e",
+    "Name": "AMDSchemadccfb238Detail",
+    "ModifiedOnUtc": "\/Date(1635835998000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Graphics Dollars",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Request Regional Budget Detail" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDFinalAmount.Caption" Value="Final Amount" />
+			<Item Name="Columns.AMDInitialAmount.Caption" Value="Initial Amount" />
+			<Item Name="Columns.AMDMarketingFunds.Caption" Value="Marketing Funds" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDPosting.Caption" Value="Posting" />
+			<Item Name="Columns.AMDRegionalBudget.Caption" Value="Regional Budget" />
+			<Item Name="Columns.AMDRequest.Caption" Value="Request" />
+			<Item Name="Columns.AMDSubRegionalDistribution.Caption" Value="Sub Regional Distribution" />
+			<Item Name="Columns.AMDTransferAmount.Caption" Value="Transfer Amount" />
+		</Items>
+	</Group>
+</Resources>

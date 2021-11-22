@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Sub-Regional Distribution&quot;" />
+			<Item Name="LocalizableStrings.AMDAllocateL2FundstoL3.Value" Value="Allocate Funds to L3" />
+			<Item Name="LocalizableStrings.AMDCountryc1fc597df6f148d1ac0fc28fbd89c956LabelCaption.Value" Value="Sub Region" />
+			<Item Name="LocalizableStrings.AMDEndDatecd24928ea6484887aefa01418b517e02LabelCaption.Value" Value="Planned End Date" />
+			<Item Name="LocalizableStrings.AMDSchema2e02fe7cDetail6d6d824aDetailCaptionOnPage.Value" Value="Marketing Funds (L3)" />
+			<Item Name="LocalizableStrings.AMDSchema4ad1aeacDetail91df8874DetailCaptionOnPage.Value" Value="Transfer Details" />
+			<Item Name="LocalizableStrings.AMDSchema4ad1aeacDetaileff23054DetailCaptionOnPage.Value" Value="Transfer Details" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetail7400999cDetailCaptionOnPage.Value" Value="Posting" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetail8057356eDetailCaptionOnPage.Value" Value="Posting" />
+			<Item Name="LocalizableStrings.AMDSchema9b1adf10Detail68b65721DetailCaptionOnPage.Value" Value="Partners" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detail1fbc606dDetailCaptionOnPage.Value" Value="Requests" />
+			<Item Name="LocalizableStrings.AMDSchemad9f7a46cDetail5b7ed147DetailCaptionOnPage.Value" Value="Request Intermediate" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail3ecc5471DetailCaptionOnPage.Value" Value="Marketing Funds" />
+			<Item Name="LocalizableStrings.AMDStartDatef38d5e35864b4049aba3a9d74082a956LabelCaption.Value" Value="Planned Start Date" />
+			<Item Name="LocalizableStrings.LOOKUPe8c529bcc6584e1dbc84cef1f8324ad5LabelCaption.Value" Value="Type of Fund" />
+			<Item Name="LocalizableStrings.STRING2e19069fc73a4f1dbf740ceb6d1bb3b8LabelCaption.Value" Value="Parent Fund ID" />
+			<Item Name="LocalizableStrings.Tab06edfffeTabLabelGroupbabd318fGroupCaption.Value" Value="Period Relevance" />
+			<Item Name="LocalizableStrings.Tab06edfffeTabLabelGroupea9ca262GroupCaption.Value" Value="Expiration" />
+			<Item Name="LocalizableStrings.Tab06edfffeTabLabelTabCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tab7b31f915TabLabelTabCaption.Value" Value="Postings" />
+			<Item Name="LocalizableStrings.Tab7d02474cTabLabelTabCaption.Value" Value="Postings" />
+			<Item Name="LocalizableStrings.Tabac8a15baTabLabelTabCaption.Value" Value="requests" />
+			<Item Name="LocalizableStrings.Tabd5057a90TabLabelTabCaption.Value" Value="Transfer Details" />
+		</Items>
+	</Group>
+</Resources>

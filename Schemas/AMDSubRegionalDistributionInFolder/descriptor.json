@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b912d106-0b37-450d-a1ad-52b868a0a0ba",
+    "Name": "AMDSubRegionalDistributionInFolder",
+    "ModifiedOnUtc": "\/Date(1633343656000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sub-Regional Distribution in Folder",
+    "DependsOn": []
+  }
+}

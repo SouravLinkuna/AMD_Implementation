@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Plans&quot;" />
+			<Item Name="LocalizableStrings.AMDEndDate79f7f04ed072434494a5df2d81db1732LabelCaption.Value" Value="Planned End Date" />
+			<Item Name="LocalizableStrings.AMDName099536c335fc4ca0b74c205d481b09a3LabelCaption.Value" Value="Description" />
+			<Item Name="LocalizableStrings.AMDRequest_Reservation.Value" Value="Request Reservation" />
+			<Item Name="LocalizableStrings.AMDSchema1e3e46f8Detaild995db6dDetailCaptionOnPage.Value" Value="Claims" />
+			<Item Name="LocalizableStrings.AMDSchema45683dd2Detail5dfb57daDetailCaptionOnPage.Value" Value="Clients Dollars" />
+			<Item Name="LocalizableStrings.AMDSchema9632be92Detail51c1992fDetailCaptionOnPage.Value" Value="RR Allocation Table" />
+			<Item Name="LocalizableStrings.AMDSchema9632be92Detailf4d81736DetailCaptionOnPage.Value" Value="RR Table" />
+			<Item Name="LocalizableStrings.AMDSchemadccfb238Detaild768deccDetailCaptionOnPage.Value" Value="Graphics Dollars" />
+			<Item Name="LocalizableStrings.AMDSchemae77ed3b1Detail7c8b4af1DetailCaptionOnPage.Value" Value="Product" />
+			<Item Name="LocalizableStrings.AMDSchemaecb35b0dDetaile6df5752DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.AMDStartDateedf35c8a24dc4537b1905ef8f607d87dLabelCaption.Value" Value="Planned Start Date" />
+			<Item Name="LocalizableStrings.STRING04bfb70fce9147a9a2bdf6bb75a553d2LabelCaption.Value" Value="Name" />
+			<Item Name="LocalizableStrings.STRINGf05a77d04b1c44f08bc4580240652549LabelCaption.Value" Value="KPI ID" />
+			<Item Name="LocalizableStrings.Tab3d79b90dTabLabelTabCaption.Value" Value="RR Table" />
+			<Item Name="LocalizableStrings.Taba79f69d2TabLabelGroup7ec0756cGroupCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Taba79f69d2TabLabelTabCaption.Value" Value="Product Info" />
+			<Item Name="LocalizableStrings.Tabbb9f40a5TabLabelGroup40834bc4GroupCaption.Value" Value="Expiration" />
+			<Item Name="LocalizableStrings.Tabbb9f40a5TabLabelGroup7a0cc332GroupCaption.Value" Value="Period Relevance" />
+			<Item Name="LocalizableStrings.Tabbb9f40a5TabLabelGroup87a6a878GroupCaption.Value" Value="Others" />
+			<Item Name="LocalizableStrings.Tabbb9f40a5TabLabelGroupdd8660baGroupCaption.Value" Value="Payee Details" />
+			<Item Name="LocalizableStrings.Tabbb9f40a5TabLabelTabCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tabda640c47TabLabelGroup85882ab7GroupCaption.Value" Value="General Information" />
+			<Item Name="LocalizableStrings.Tabda640c47TabLabelTabCaption.Value" Value="KPI" />
+			<Item Name="LocalizableStrings.Tabdcfaed76TabLabelTabCaption.Value" Value="Materials ID" />
+			<Item Name="LocalizableStrings.Tabe8a66ad3TabLabelGroup1457f3a0GroupCaption.Value" Value="PO Summary" />
+			<Item Name="LocalizableStrings.Tabe8a66ad3TabLabelTabCaption.Value" Value="PO Attachments" />
+		</Items>
+	</Group>
+</Resources>

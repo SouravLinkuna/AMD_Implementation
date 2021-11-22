@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "240f592d-d092-48b1-a6c8-39988b155771",
+    "Name": "AMDMarketingPlans2Page",
+    "ModifiedOnUtc": "\/Date(1637069764000)\/",
+    "Parent": {
+      "UId": "d7862464-6710-4c5c-b896-e8187803dd6e",
+      "Name": "BaseSectionPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Marketing Plans (L4)\"",
+    "DependsOn": []
+  }
+}

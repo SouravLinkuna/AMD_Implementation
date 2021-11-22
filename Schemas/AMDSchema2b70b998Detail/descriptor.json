@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7ba919ae-b5bc-4572-b472-ceed625ad188",
+    "Name": "AMDSchema2b70b998Detail",
+    "ModifiedOnUtc": "\/Date(1635947291000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Request Marketing Fund\"",
+    "DependsOn": []
+  }
+}

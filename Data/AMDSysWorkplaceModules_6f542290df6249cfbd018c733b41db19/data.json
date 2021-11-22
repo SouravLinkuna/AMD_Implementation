@@ -1,0 +1,246 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "4bf81f50-a5c9-4647-933d-84ef7ea9fbb8"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "055063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Activities"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b9348ff9-87d1-460d-9cb4-56ed1377d22f"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 3
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "07001496-8efc-4bd8-b099-5c8410fda2ca",
+          "DisplayValue": "Sub-Regional Distribution (L2)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "89e00886-dbdb-4d41-bf60-87174dfc95fe"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 5
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "911541f7-2116-4718-9d76-555f3fbffce6",
+          "DisplayValue": "Marketing Plans (L4)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7cb60d37-1dac-4af8-ba1a-b1605661bddb"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 6
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "8276e101-b5c6-4eac-8e71-5c4c5e88d3ed",
+          "DisplayValue": "Marketing Activities (L4.1)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3db8facb-3f11-44b8-b1a1-484a1bfc68c9"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "005063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Partners"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fff9bb87-fed8-4bb7-84e3-8272be59df4c"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 2
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "3e74aed7-d8ca-4014-be41-6fc63a0b5f43",
+          "DisplayValue": "Regional Budget (L1)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "8e42304f-fee0-4bc0-b63d-d01d2c48ec6b"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 17
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "0901b0ba-ca7f-4138-8b2d-4c518f21ce56",
+          "DisplayValue": "Administration"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "55568896-6fd3-4f29-97c5-3856265b0590",
+          "DisplayValue": "Funds Plan"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ef68a7c1-88b2-4552-a04a-ce5ad60295eb"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 18
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "0901b0ba-ca7f-4138-8b2d-4c518f21ce56",
+          "DisplayValue": "Administration"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "7d04c920-217c-4c85-a6a3-5581b8873e0c",
+          "DisplayValue": "Organizational Data"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f9969122-0faa-4f6f-9b80-1ed4a1fbe2d2"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 8
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "274a7455-c6ea-4c76-959b-b672bbb29cd4",
+          "DisplayValue": "Requests"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "07a503ac-99b8-40f8-8c94-cd151ccba13f"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 4
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "f003b5a6-5e24-4db6-ba3a-08b62bbba4a8",
+          "DisplayValue": "Marketing Funds (L3)"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d38a840f-7d86-48bc-8515-6e85ba803ce1"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 7
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "377f8761-9d77-45be-9533-3b6df38264db",
+          "DisplayValue": "AMD"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "ee08838d-6d7a-4f65-bbc1-c819e0a06450",
+          "DisplayValue": "Claims (L5)"
+        }
+      ]
+    }
+  ]
+}

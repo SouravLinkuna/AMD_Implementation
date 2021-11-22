@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RR Table" />
+			<Item Name="Columns.AMDAMDMarketingPlans.Caption" Value="Marketing Plans (L4)" />
+			<Item Name="Columns.AMDAmount.Caption" Value="Amount" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDMaterialId.Caption" Value="Material Id" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDOEMDistributorID.Caption" Value="OEM/Distributor ID" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_EntityInserting.Caption" Value="EntityInserting" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_62d8e16251de4535bcb8aa5eca1d3cb5.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_62d8e16251de4535bcb8aa5eca1d3cb5.Lanes.Lane1_389d67873b934eff931a711b4cb4f035.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

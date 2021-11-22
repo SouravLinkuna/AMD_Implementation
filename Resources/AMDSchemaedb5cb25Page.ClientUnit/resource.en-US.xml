@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="RR Table" />
+			<Item Name="LocalizableStrings.AMDNamecfd04089b49e40eb984a30febbe3b537LabelCaption.Value" Value="RR ID" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="RR Table" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ee98e7a9-3913-489a-8f0a-ff4bc56e0f0d",
+    "Name": "AMDRequestMarketingFund",
+    "ModifiedOnUtc": "\/Date(1635947451000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RequestMarketingFund",
+    "DependsOn": []
+  }
+}

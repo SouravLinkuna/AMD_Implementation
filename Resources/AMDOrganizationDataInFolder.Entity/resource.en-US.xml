@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Organization Data in Folder" />
+			<Item Name="Columns.AMDOrganizationData.Caption" Value="Organization Data" />
+			<Item Name="Columns.Folder.Caption" Value="Organization Data folder" />
+		</Items>
+	</Group>
+</Resources>

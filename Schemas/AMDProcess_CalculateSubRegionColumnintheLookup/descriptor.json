@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d88010ec-ae0f-4e44-b794-42d3ec4d5eb9",
+    "Name": "AMDProcess_CalculateSubRegionColumnintheLookup",
+    "ModifiedOnUtc": "\/Date(1636699832000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate SubRegion Column in the Lookup",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AMDAMDClaims.Caption" Value="Obiect de baza" />
+			<Item Name="Columns.AMDAMDMarketingActivities.Caption" Value="Marketing Activities" />
+			<Item Name="Columns.AMDAMDMarketingPlans.Caption" Value="Marketing Plans" />
+		</Items>
+	</Group>
+</Resources>

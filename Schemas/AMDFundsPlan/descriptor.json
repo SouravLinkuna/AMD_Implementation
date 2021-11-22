@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a9d013bc-975b-4c70-a1d2-b72ec08adfbf",
+    "Name": "AMDFundsPlan",
+    "ModifiedOnUtc": "\/Date(1635339982000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Funds Plan",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Funds Plan&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema09104d6eDetail777fae3aDetailCaptionOnPage.Value" Value="Fund ID" />
+			<Item Name="LocalizableStrings.AMDSchema207b8e43Detail778fefdeDetailCaptionOnPage.Value" Value="Regional Budget" />
+			<Item Name="LocalizableStrings.STRINGb0b91f28a87d4af989fdf1add539cd12LabelCaption.Value" Value="FundPlan ID" />
+			<Item Name="LocalizableStrings.Tabf1176aabTabLabelTabCaption.Value" Value="Regional Budget" />
+		</Items>
+	</Group>
+</Resources>

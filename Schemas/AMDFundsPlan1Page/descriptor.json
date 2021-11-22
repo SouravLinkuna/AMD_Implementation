@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d28ed1c3-32b6-4728-b72b-12e021cc4f98",
+    "Name": "AMDFundsPlan1Page",
+    "ModifiedOnUtc": "\/Date(1635339962000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Funds Plan\"",
+    "DependsOn": []
+  }
+}

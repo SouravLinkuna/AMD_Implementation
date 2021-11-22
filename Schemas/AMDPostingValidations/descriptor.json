@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bf9e16b1-0553-432f-931a-a27f38e9ab98",
+    "Name": "AMDPostingValidations",
+    "ModifiedOnUtc": "\/Date(1635163606000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Posting Validations",
+    "DependsOn": []
+  }
+}

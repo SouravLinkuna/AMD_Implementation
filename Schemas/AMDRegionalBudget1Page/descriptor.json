@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b9418f0-9cdd-46b6-8538-ddc9fe5aafce",
+    "Name": "AMDRegionalBudget1Page",
+    "ModifiedOnUtc": "\/Date(1637151077000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Regional Budget (L1)\"",
+    "DependsOn": []
+  }
+}

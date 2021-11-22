@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Activity Type Lookup" />
+			<Item Name="Columns.AMDSpendType.Caption" Value="Spend Type" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask_EntityInserting.Caption" Value="EntityInserting" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_62d8e16251de4535bcb8aa5eca1d3cb5.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_62d8e16251de4535bcb8aa5eca1d3cb5.Lanes.Lane1_389d67873b934eff931a711b4cb4f035.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

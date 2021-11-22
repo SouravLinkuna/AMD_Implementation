@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4a6a8bdc-2d71-4875-993a-4062e4201904",
+    "Name": "AMDProcess_AdditioninL2reflectioninL1",
+    "ModifiedOnUtc": "\/Date(1635248858000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Addition in L2, reflection in L1",
+    "DependsOn": []
+  }
+}

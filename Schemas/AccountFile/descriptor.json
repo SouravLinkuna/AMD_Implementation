@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "07d95b9b-7bf4-4e71-a94f-0fd52b5c6564",
+    "Name": "AccountFile",
+    "ModifiedOnUtc": "\/Date(1634536353000)\/",
+    "Parent": {
+      "UId": "149d2eaf-cbd2-49fa-b565-637748ff823c",
+      "Name": "AccountFile"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "File and link of account",
+    "DependsOn": []
+  }
+}

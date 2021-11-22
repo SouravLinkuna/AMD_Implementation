@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a2b06c0f-607e-40e5-94da-581bc7e17e63",
+    "Name": "AMDTransferAmountPostingL2",
+    "ModifiedOnUtc": "\/Date(1635322050000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Transfer amount - Posting (L2)",
+    "DependsOn": []
+  }
+}

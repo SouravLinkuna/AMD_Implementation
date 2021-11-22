@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "57ce7831-bd69-4ace-b89e-b185feca949f",
+    "Name": "AMDRequestsFile",
+    "ModifiedOnUtc": "\/Date(1634724234000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests attachment",
+    "DependsOn": []
+  }
+}

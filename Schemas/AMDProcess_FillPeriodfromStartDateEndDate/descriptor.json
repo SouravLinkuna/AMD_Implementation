@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ed005616-81e0-49f2-ac66-7403923c3582",
+    "Name": "AMDProcess_FillPeriodfromStartDateEndDate",
+    "ModifiedOnUtc": "\/Date(1634827191000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Fill Period from Start Date / End Date",
+    "DependsOn": []
+  }
+}

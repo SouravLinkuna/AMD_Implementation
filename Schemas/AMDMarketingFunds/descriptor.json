@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b5802df6-5dc5-4469-a1ee-a5bfeb1daea1",
+    "Name": "AMDMarketingFunds",
+    "ModifiedOnUtc": "\/Date(1637154077000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Funds (L3)",
+    "DependsOn": []
+  }
+}

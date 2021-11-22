@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e412dbd2-28a9-4de3-bf9b-70677d7c55b2",
+    "Name": "AMDMarketingActivitiesInFolder",
+    "ModifiedOnUtc": "\/Date(1633347249000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Activities in Folder",
+    "DependsOn": []
+  }
+}

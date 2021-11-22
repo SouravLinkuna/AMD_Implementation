@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8bdf87af-6c3a-4a2a-a5dc-fcd8a0b7e3ed",
+    "Name": "AMDProcess_AdditoninL5reflectioninL4",
+    "ModifiedOnUtc": "\/Date(1636635849000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Additon in L5, reflection in L4",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c7fd24b-cb6c-41be-883d-772f5e9ce2df",
+    "Name": "AMDAssociatePayeeCodeLookup",
+    "ModifiedOnUtc": "\/Date(1634560907000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Associate Payee Code Lookup",
+    "DependsOn": []
+  }
+}

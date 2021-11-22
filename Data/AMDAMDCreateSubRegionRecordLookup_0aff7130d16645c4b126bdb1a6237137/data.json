@@ -1,0 +1,194 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "86fe8c49-6bf6-4d89-875d-eaed48d5d9cc"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1636648368339+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1636648368339+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+          "Value": "d264647b-7942-426c-9bce-e3810c009a23",
+          "DisplayValue": "North Europe"
+        },
+        {
+          "SchemaColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+          "Value": "5e026a17-b07f-4fd7-8957-5be20e4189f9",
+          "DisplayValue": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+          "Value": "10000000048"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e8e46b25-6781-40e8-b644-ef26950137d9"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1636648314623+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1636648314623+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+          "Value": "feef99e9-1814-41b5-bd1d-46094c7181f0",
+          "DisplayValue": "Eastern Europe"
+        },
+        {
+          "SchemaColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+          "Value": "5e026a17-b07f-4fd7-8957-5be20e4189f9",
+          "DisplayValue": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+          "Value": "10000000048"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7dc028dd-fb57-4667-87a3-a66bb51b98ba"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1636648328854+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1636648328854+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+          "Value": "aaf5bd3b-89d1-4cad-94dd-ea8bddb30048",
+          "DisplayValue": "South Europe"
+        },
+        {
+          "SchemaColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+          "Value": "5e026a17-b07f-4fd7-8957-5be20e4189f9",
+          "DisplayValue": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+          "Value": "10000000048"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fb4e4bd9-259e-41b1-b8fd-121905babb4f"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1636648342216+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1636648342216+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+          "Value": "b055a67b-825c-4907-9086-c14d4ccf9ab0",
+          "DisplayValue": "DACH"
+        },
+        {
+          "SchemaColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+          "Value": "5e026a17-b07f-4fd7-8957-5be20e4189f9",
+          "DisplayValue": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+          "Value": "10000000048"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "95182fe4-3e9f-43c7-bca0-56a831f0a5be"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1636648356192+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1636648356192+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+          "Value": "5a420f94-eb93-45e5-a0fd-984908196e0d",
+          "DisplayValue": "Central"
+        },
+        {
+          "SchemaColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+          "Value": "5e026a17-b07f-4fd7-8957-5be20e4189f9",
+          "DisplayValue": "EMEA"
+        },
+        {
+          "SchemaColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+          "Value": "10000000048"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8b942ee-7b8f-44a1-811e-cf5140c2a673",
+    "Name": "AMDProcess_InheritL3fieldsintoL4",
+    "ModifiedOnUtc": "\/Date(1636977384000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Inherit L3 fields into L4",
+    "DependsOn": []
+  }
+}

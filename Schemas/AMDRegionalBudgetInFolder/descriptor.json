@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b417c38a-5e5a-4453-bc75-20a251e3d8ce",
+    "Name": "AMDRegionalBudgetInFolder",
+    "ModifiedOnUtc": "\/Date(1633353278000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Regional Budget in Folder",
+    "DependsOn": []
+  }
+}

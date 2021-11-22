@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "009bfca5-9536-48b7-98a3-3d376f566e43",
+    "Name": "AMDMarketingActivityStatusLookup",
+    "ModifiedOnUtc": "\/Date(1633349346000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Activity Status Lookup",
+    "DependsOn": []
+  }
+}

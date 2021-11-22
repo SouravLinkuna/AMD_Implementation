@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b1a7472-e39a-44cc-951a-a481a6b823ce",
+    "Name": "AMDProcessLockL1fieldswhenStatusisApproved",
+    "ModifiedOnUtc": "\/Date(1635168749000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Lock L1 fields when Status is Approved",
+    "DependsOn": []
+  }
+}

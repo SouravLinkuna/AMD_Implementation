@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "24422b65-075b-4264-8290-de3a48ed2b4c",
+    "Name": "AMDSubRegionLookup",
+    "ModifiedOnUtc": "\/Date(1636541694000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sub Region Lookup",
+    "DependsOn": []
+  }
+}

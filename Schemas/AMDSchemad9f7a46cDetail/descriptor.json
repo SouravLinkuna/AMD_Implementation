@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d8e61fec-e375-4c31-95ca-b12a36eb804c",
+    "Name": "AMDSchemad9f7a46cDetail",
+    "ModifiedOnUtc": "\/Date(1637056381000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Request Regional Budget Detail\"",
+    "DependsOn": []
+  }
+}

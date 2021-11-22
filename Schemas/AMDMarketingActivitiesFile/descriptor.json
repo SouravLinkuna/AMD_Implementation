@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b67953c6-a558-46b4-922d-180d5eb62a77",
+    "Name": "AMDMarketingActivitiesFile",
+    "ModifiedOnUtc": "\/Date(1633347241000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Marketing Activities attachment",
+    "DependsOn": []
+  }
+}

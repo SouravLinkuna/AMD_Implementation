@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Sub-Regional Distribution&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema2e02fe7cDetail6d6d824aDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetail7400999cDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetail8057356eDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema9b1adf10Detail68b65721DetailCaptionOnPage.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detail1fbc606dDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchemaeeb86bc2Detail3ecc5471DetailCaptionOnPage.Value" Value="Базовый объект" />
+		</Items>
+	</Group>
+</Resources>

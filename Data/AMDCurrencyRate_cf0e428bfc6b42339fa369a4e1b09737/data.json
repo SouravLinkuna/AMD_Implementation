@@ -1,0 +1,189 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a783121a-f46b-1410-d08d-00155d043205"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563229956161+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1563229993148+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+          "Value": "\/Date(1285880400000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+          "Value": "915e8a55-98d6-df11-9b2a-001d60e938c6",
+          "DisplayValue": "US Dollar"
+        },
+        {
+          "SchemaColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+          "Value": 1.00000000
+        },
+        {
+          "SchemaColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3397cead-2694-443e-bbdb-2e753be1db6f"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563229956171+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1563229993157+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+          "Value": "\/Date(1506373200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+          "Value": "c1057119-53e6-df11-971b-001d60e938c6",
+          "DisplayValue": "Hryvnia"
+        },
+        {
+          "SchemaColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+          "Value": 26.20000000
+        },
+        {
+          "SchemaColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2f59acdc-b8aa-4b1a-b4a9-3c8451b7b3e5"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563229956173+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1563229993166+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+          "Value": "\/Date(1506373200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+          "Value": "908f7166-d8da-49a9-80dd-a2958fc3fabf",
+          "DisplayValue": "Australian Dollar"
+        },
+        {
+          "SchemaColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+          "Value": 1.25060000
+        },
+        {
+          "SchemaColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f4154cfa-c21e-443b-98af-68cfa32c3cfb"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563229956175+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1563229993175+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+          "Value": "\/Date(1506373200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+          "Value": "5fb76920-53e6-df11-971b-001d60e938c6",
+          "DisplayValue": "Ruble"
+        },
+        {
+          "SchemaColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+          "Value": 58.62350000
+        },
+        {
+          "SchemaColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0c32e901-ad02-4364-ac54-b842061871b4"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1563229956177+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1563229993185+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "fffa677c-647e-4b47-9a24-8fb2639fe3a4",
+          "Value": "\/Date(1506373200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b4b497ac-79b3-4db1-a75a-f80d9039f3ea",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "84ce4c1c-f001-4109-86fa-c9b36e8fd5d7",
+          "Value": "c0057119-53e6-df11-971b-001d60e938c6",
+          "DisplayValue": "Euro"
+        },
+        {
+          "SchemaColumnUId": "8484fcf9-f40d-48a1-a787-aba9e26c1fb0",
+          "Value": 0.83330000
+        },
+        {
+          "SchemaColumnUId": "6c9f3250-8758-4e5a-9a49-c8aa0726fe30",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

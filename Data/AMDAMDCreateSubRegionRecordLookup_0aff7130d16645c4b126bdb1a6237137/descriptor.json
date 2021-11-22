@@ -1,0 +1,70 @@
+﻿{
+  "Descriptor": {
+    "UId": "e1b91fe1-176d-43cb-818f-30a3c2d1d485",
+    "Name": "AMDAMDCreateSubRegionRecordLookup_0aff7130d16645c4b126bdb1a6237137",
+    "ModifiedOnUtc": "\/Date(1637068846000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "8d3bb7ff-4ace-469f-b932-5e77aab518d2",
+      "Name": "AMDCreateSubRegionRecordLookup"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "CreatedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "ModifiedOn",
+        "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Description",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "c189c855-11f5-9828-d4a4-859b04038bf4",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "AMDSubRegionLookupColumn",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "1df2ed19-3f95-0e27-eab3-7ecb7fe6080e",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "AMDRegionColumn",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "3b119ed5-ba18-3d01-cd80-ef63f00629bb",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "AMDFundPlanRecordIDColumn",
+        "DataTypeValueUId": "5ca35f10-a101-4c67-a96a-383da6afacfc"
+      }
+    ]
+  }
+}

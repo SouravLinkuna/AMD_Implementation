@@ -1,0 +1,36 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c767ac85-07f3-43b7-89eb-6488e14b96bf"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1633358248746+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "events.svg"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzOCAzOCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMzggMzgiPjxwYXRoIGQ9Ik0yOC41LDEyLjdjMC02LjEtNC4zLTExLTkuNS0xMXMtOS41LDQuOS05LjUsMTFjMCw1LjcsMy44LDEwLjQsOC42LDEwLjlsLTEuNiw0LjFoMi41DQoJYy0xLjEsMS43LTIuNSwzLjktMi40LDUuM2MwLjEsMi4zLDIuMSw0LjIsMi4yLDQuM2wwLjctMC44YzAsMC0xLjktMS43LTEuOS0zLjVjMC0xLjQsMi4zLTQuNSwyLjktNS4zaDEuOWwtMS42LTQuMg0KCUMyNS4yLDIyLjUsMjguNSwxOCwyOC41LDEyLjd6IE0xOS43LDIxLjJ2LTJjMywwLDQuNC0zLjYsNC40LTdoMkMyNi4xLDE3LjUsMjMuNSwyMS4yLDE5LjcsMjEuMnoiIGZpbGw9IiNmZmYiLz48L3N2Zz4="
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7c2c4e37-0ebd-4e13-a752-76881177c0b3",
+    "Name": "AMDCompanyCodeLookup",
+    "ModifiedOnUtc": "\/Date(1633344958000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "CompanyCode Lookup",
+    "DependsOn": []
+  }
+}

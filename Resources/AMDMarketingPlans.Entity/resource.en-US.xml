@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Marketing Plans (L4)" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDAchievment.Caption" Value="Achievment" />
+			<Item Name="Columns.AMDActualAmount.Caption" Value="Actual Amount" />
+			<Item Name="Columns.AMDApprover.Caption" Value="Approver" />
+			<Item Name="Columns.AMDAssociatePartnerName.Caption" Value="Associate Partner Name" />
+			<Item Name="Columns.AMDAssociatePayeeCode.Caption" Value="Associate Payee Code" />
+			<Item Name="Columns.AMDBalance.Caption" Value="Balance" />
+			<Item Name="Columns.AMDConsumedByClaims.Caption" Value="Consumed By Claims" />
+			<Item Name="Columns.AMDContractID.Caption" Value="Contract ID" />
+			<Item Name="Columns.AMDCostCenter.Caption" Value="Cost Center" />
+			<Item Name="Columns.AMDCountry.Caption" Value="Country" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDDescription.Caption" Value="Description" />
+			<Item Name="Columns.AMDDivision.Caption" Value="Division" />
+			<Item Name="Columns.AMDEndDate.Caption" Value="End Date" />
+			<Item Name="Columns.AMDEndQuarter.Caption" Value="End Quarter" />
+			<Item Name="Columns.AMDEndYear.Caption" Value="End Year" />
+			<Item Name="Columns.AMDExpiredDate.Caption" Value="Expired Date" />
+			<Item Name="Columns.AMDExpiredQuarter.Caption" Value="Expired Quarter" />
+			<Item Name="Columns.AMDExpiredYear.Caption" Value="Expired Year" />
+			<Item Name="Columns.AMDFundType.Caption" Value="Fund Type" />
+			<Item Name="Columns.AMDKPIName.Caption" Value="KPI Name" />
+			<Item Name="Columns.AMDMarketingFund.Caption" Value="Marketing Fund" />
+			<Item Name="Columns.AMDMarketingManager.Caption" Value="Marketing Manager" />
+			<Item Name="Columns.AMDMarketingPlansStatus.Caption" Value="Marketing Plans Status" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDOrigination.Caption" Value="Origination" />
+			<Item Name="Columns.AMDPassthru.Caption" Value="Passthru" />
+			<Item Name="Columns.AMDPassthruActualexecutor.Caption" Value="Passthru - Actual executor" />
+			<Item Name="Columns.AMDPassthruEarningPartner.Caption" Value="Passthru - Earning Partner" />
+			<Item Name="Columns.AMDPayeeID.Caption" Value="Payee ID" />
+			<Item Name="Columns.AMDPayeeName.Caption" Value="Payee Name" />
+			<Item Name="Columns.AMDPayeeType.Caption" Value="Payee Type" />
+			<Item Name="Columns.AMDPaymentTerm.Caption" Value="Payment Term" />
+			<Item Name="Columns.AMDPeriod.Caption" Value="Period" />
+			<Item Name="Columns.AMDPlanAmount.Caption" Value="Plan Amount" />
+			<Item Name="Columns.AMDPODetails.Caption" Value="PO Details" />
+			<Item Name="Columns.AMDProductAmount.Caption" Value="Amount" />
+			<Item Name="Columns.AMDProductName.Caption" Value="Product Name" />
+			<Item Name="Columns.AMDProgram.Caption" Value="Program" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="Columns.AMDReservationAmount.Caption" Value="Reservation Amount" />
+			<Item Name="Columns.AMDReservationID.Caption" Value="Reservation ID" />
+			<Item Name="Columns.AMDRevision.Caption" Value="Revision #" />
+			<Item Name="Columns.AMDRevisionNumber.Caption" Value="Revision Number" />
+			<Item Name="Columns.AMDSalesOrg.Caption" Value="Sales Org" />
+			<Item Name="Columns.AMDStartDate.Caption" Value="Start Date" />
+			<Item Name="Columns.AMDStartQuarter.Caption" Value="Start Quarter" />
+			<Item Name="Columns.AMDStartYear.Caption" Value="Start Year" />
+			<Item Name="Columns.AMDTarget.Caption" Value="Target" />
+			<Item Name="Columns.AMDUnitBase.Caption" Value="Unit Base" />
+		</Items>
+	</Group>
+</Resources>

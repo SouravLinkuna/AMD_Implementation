@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4ec1245e-ef2d-41e0-a131-381359b258d2",
+    "Name": "AMDOrganizationDataa318a8e2Section",
+    "ModifiedOnUtc": "\/Date(1634730375000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Organizational Data\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5aca3df4-328d-4d57-8b9e-e0fc402a9aa4",
+    "Name": "AMDMarketingActivitiesVisa",
+    "ModifiedOnUtc": "\/Date(1633434928000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approvals in section Marketing Activities",
+    "DependsOn": []
+  }
+}

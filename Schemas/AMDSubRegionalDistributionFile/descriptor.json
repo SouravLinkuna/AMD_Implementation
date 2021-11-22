@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f7c545b1-d8f4-467e-b571-32dc1d90682b",
+    "Name": "AMDSubRegionalDistributionFile",
+    "ModifiedOnUtc": "\/Date(1633343647000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Sub-Regional Distribution attachment",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ecddde19-a45b-41b3-8e5c-2c46cc3ad125",
+    "Name": "AMDClaims6f829c4fSection",
+    "ModifiedOnUtc": "\/Date(1635166831000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Claims (L5)\"",
+    "DependsOn": []
+  }
+}

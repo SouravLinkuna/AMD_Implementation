@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.AMDAMDClaims.Caption" Value="Đối tượng cơ bản" />
+			<Item Name="Columns.AMDAMDMarketingActivities.Caption" Value="Marketing Activities" />
+			<Item Name="Columns.AMDAMDMarketingPlans.Caption" Value="Marketing Plans" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f48e8091-8a52-4bf4-82f5-df6963257ce0",
+    "Name": "AMDClaimsFolder",
+    "ModifiedOnUtc": "\/Date(1633347962000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Claims folder",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6b314852-7845-4222-a726-60f3228c34ea",
+    "Name": "AMDRequestsTag",
+    "ModifiedOnUtc": "\/Date(1634724258000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests section tag",
+    "DependsOn": []
+  }
+}

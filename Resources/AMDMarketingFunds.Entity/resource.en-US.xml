@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Marketing Funds (L3)" />
+			<Item Name="Columns.AMDAccountingClassification.Caption" Value="Accounting Classification" />
+			<Item Name="Columns.AMDBalance.Caption" Value="Balance" />
+			<Item Name="Columns.AMDBusinessOwner.Caption" Value="Business Owner" />
+			<Item Name="Columns.AMDChannelPartnerVendorID.Caption" Value="Channel Partner/Vendor ID" />
+			<Item Name="Columns.AMDCompany.Caption" Value="Company" />
+			<Item Name="Columns.AMDConsumed.Caption" Value="Consumed" />
+			<Item Name="Columns.AMDCostCenter.Caption" Value="Cost Center" />
+			<Item Name="Columns.AMDCountry.Caption" Value="Country" />
+			<Item Name="Columns.AMDCurrency.Caption" Value="Currency" />
+			<Item Name="Columns.AMDDivision.Caption" Value="Division" />
+			<Item Name="Columns.AMDEndDate.Caption" Value="End Date" />
+			<Item Name="Columns.AMDEndQuarter.Caption" Value="End Quarter" />
+			<Item Name="Columns.AMDEndYear.Caption" Value="End Year" />
+			<Item Name="Columns.AMDExpiredDate.Caption" Value="Expired Date" />
+			<Item Name="Columns.AMDExpiredQuarter.Caption" Value="Expired Quarter" />
+			<Item Name="Columns.AMDExpiredYear.Caption" Value="Expired Year" />
+			<Item Name="Columns.AMDFundID.Caption" Value="Fund ID" />
+			<Item Name="Columns.AMDFundIDEnum.Caption" Value="Fund ID Enum" />
+			<Item Name="Columns.AMDFundType.Caption" Value="Fund Type" />
+			<Item Name="Columns.AMDMarketingFundsStatus.Caption" Value="Status" />
+			<Item Name="Columns.AMDName.Caption" Value="Name" />
+			<Item Name="Columns.AMDNotes.Caption" Value="Notes" />
+			<Item Name="Columns.AMDPartnerName.Caption" Value="Partner Name" />
+			<Item Name="Columns.AMDPeriod.Caption" Value="Period" />
+			<Item Name="Columns.AMDProgram.Caption" Value="Program" />
+			<Item Name="Columns.AMDRegion.Caption" Value="Region" />
+			<Item Name="Columns.AMDRegionalDirector.Caption" Value="Regional Director" />
+			<Item Name="Columns.AMDRequests.Caption" Value="Requests" />
+			<Item Name="Columns.AMDSalesOrg.Caption" Value="Sales Org" />
+			<Item Name="Columns.AMDStartDate.Caption" Value="Start Date" />
+			<Item Name="Columns.AMDStartQuarter.Caption" Value="Start Quarter" />
+			<Item Name="Columns.AMDStartYear.Caption" Value="Start Year" />
+			<Item Name="Columns.AMDSubRegionalDistribution.Caption" Value="Sub-Regional Distribution" />
+			<Item Name="Columns.AMDTotalAllocatedBudget.Caption" Value="Total Allocated Budget" />
+		</Items>
+	</Group>
+</Resources>

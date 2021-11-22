@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1994a280-9bc5-4c29-84d9-f211abea6303",
+    "Name": "AMDProcessStagechangewhennewclaimisadded",
+    "ModifiedOnUtc": "\/Date(1636645201000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Stage change when new claim is added",
+    "DependsOn": []
+  }
+}

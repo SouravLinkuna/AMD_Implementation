@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce16c6e5-408a-4a0a-b232-39b485155329",
+    "Name": "AMDPayeeTypeLookup",
+    "ModifiedOnUtc": "\/Date(1637159940000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Payee Type Lookup",
+    "DependsOn": []
+  }
+}

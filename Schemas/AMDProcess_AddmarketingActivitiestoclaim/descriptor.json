@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "db9b1def-4fe3-42bb-94ab-e81dc44d5745",
+    "Name": "AMDProcess_AddmarketingActivitiestoclaim",
+    "ModifiedOnUtc": "\/Date(1634815151000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Add marketing Activities to claim",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "79443f2c-b07c-1ea9-50d2-405d22ecd5f7",
+    "Name": "script_postgresql",
+    "DBEngineType": 2,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1633356414000)\/",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Regional Budget (L1)&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema2ab7e7ceDetail7a100eebDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema5f2230aaDetail3bc0910dDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchema9b1adf10Detail2029565aDetailCaptionOnPage.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detail16222afaDetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchemad5348ca0Detail6e88e9d6DetailCaptionOnPage.Value" Value="Базовый объект" />
+			<Item Name="LocalizableStrings.AMDSchemae24ddcc5Detail3db8a738DetailCaptionOnPage.Value" Value="Базовый объект" />
+		</Items>
+	</Group>
+</Resources>

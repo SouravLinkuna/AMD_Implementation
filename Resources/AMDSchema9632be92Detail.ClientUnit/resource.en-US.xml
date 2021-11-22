@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Detail schema: &quot;RR Allocation Table&quot;" />
+			<Item Name="LocalizableStrings.AMDADDRRTABLE.Value" Value="Create RR Table" />
+			<Item Name="LocalizableStrings.AMDRRTableCaption.Value" Value="Create RR Table" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="RR Allocation Table" />
+			<Item Name="LocalizableStrings.TotalAmountCaption.Value" Value="Total:" />
+			<Item Name="LocalizableStrings.TotalCountCaption.Value" Value="Items:" />
+		</Items>
+	</Group>
+</Resources>

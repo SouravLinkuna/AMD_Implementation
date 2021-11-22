@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c2025c7d-a291-4ef2-9ea1-a7e55b146034",
+    "Name": "AMDRequestsInFolder",
+    "ModifiedOnUtc": "\/Date(1634724251000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests in Folder",
+    "DependsOn": []
+  }
+}

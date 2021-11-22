@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Marketing Funds" />
+			<Item Name="LocalizableStrings.AMDDistributeFundsButtonCaption.Value" Value="Distribute Funds" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Marketing Funds" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c3639263-8c60-4311-b721-f7e00571474f",
+    "Name": "AMDProcess_AutoPopulatefieldswithFundID",
+    "ModifiedOnUtc": "\/Date(1634217556000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Auto Populate fields with Fund ID",
+    "DependsOn": []
+  }
+}

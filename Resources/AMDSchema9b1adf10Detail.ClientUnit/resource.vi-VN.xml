@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Tổ chức" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Tổ chức" />
+		</Items>
+	</Group>
+</Resources>

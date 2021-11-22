@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "11c01365-93c8-4625-a750-364a954ed1a8",
+    "Name": "AMDProcess_AllocateAllL1fundstoL2",
+    "ModifiedOnUtc": "\/Date(1636720248000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Allocate 100% L1 funds to L2",
+    "DependsOn": []
+  }
+}

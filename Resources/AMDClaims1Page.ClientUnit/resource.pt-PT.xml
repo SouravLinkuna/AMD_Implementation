@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Claims&quot;" />
+			<Item Name="LocalizableStrings.AMDSchemaecb35b0dDetail05ca6447DetailCaptionOnPage.Value" Value="Marketing Activities" />
+			<Item Name="LocalizableStrings.NotesAndFilesTabCaption.Value" Value="Anexos e notas" />
+		</Items>
+	</Group>
+</Resources>

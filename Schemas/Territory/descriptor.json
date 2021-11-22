@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "dc1b1c23-780d-40f0-a85e-03ae1c72a0ca",
+    "Name": "Territory",
+    "ModifiedOnUtc": "\/Date(1634536341000)\/",
+    "Parent": {
+      "UId": "a0d1e591-78ee-44cb-9a58-39d6b59346f8",
+      "Name": "Territory"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Territory",
+    "DependsOn": []
+  }
+}

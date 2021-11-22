@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "61e14c86-1894-4837-9d1a-42156093bc84",
+    "Name": "AMDOrganizationData1Page",
+    "ModifiedOnUtc": "\/Date(1634732620000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Organization Data\"",
+    "DependsOn": []
+  }
+}

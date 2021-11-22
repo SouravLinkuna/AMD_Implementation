@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Marketing Plans&quot;" />
+			<Item Name="LocalizableStrings.AMDSchema1e3e46f8Detaild995db6dDetailCaptionOnPage.Value" Value="Obiect de baza" />
+			<Item Name="LocalizableStrings.AMDSchemaecb35b0dDetaile6df5752DetailCaptionOnPage.Value" Value="Marketing Activities" />
+		</Items>
+	</Group>
+</Resources>
